@@ -1,0 +1,2 @@
+# paxful.com
+/offers/trade
